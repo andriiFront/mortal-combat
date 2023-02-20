@@ -1,16 +1,27 @@
 # Mortal Combat 3
 TAP **[PREVIEW LINK](https://andriifront.github.io/mortal-combat/)** TO SEE DEMO
 
+## Description
+
+This application implements the first two screens of the famous game Mortal Kombat 3. Here you can choose characters for the first and second players.
+
+For the first player:
+- select - buttons "up", "down", "right", "left"
+- confirm - "enter" button
+
+For the second player:
+- select - buttons "s", "x", "c", "z"
+- confirm - "v" button
+
 ## Technologies
 
  - REACT
- - REDUX (thunk, saga)
- - BOOTSTRAP
+ - REDUX
 
 ## Links
 
-Video: [link](https://www.youtube.com/watch?v=G3GGXIhggGs&t=28s)
-Code: [link](https://github.com/andriiFront/redux-react-saga-app)
+Page: [link](https://andriifront.github.io/mortal-combat/)
+Code: [link](https://github.com/andriiFront/mortal-combat)
 
 ## My Contacts
 Andrii Badekha
