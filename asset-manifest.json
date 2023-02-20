@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mortal-combat/static/css/main.b7e46c8b.css",
+    "main.js": "/mortal-combat/static/js/main.3443963f.js",
+    "index.html": "/mortal-combat/index.html",
+    "main.b7e46c8b.css.map": "/mortal-combat/static/css/main.b7e46c8b.css.map",
+    "main.3443963f.js.map": "/mortal-combat/static/js/main.3443963f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e46c8b.css",
+    "static/js/main.3443963f.js"
+  ]
+}
