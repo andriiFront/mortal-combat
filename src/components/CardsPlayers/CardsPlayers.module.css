@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.containerIcon {
+  display: grid;
+  grid-template-columns: repeat(5, 150px);
+  grid-gap: 20px;
+}

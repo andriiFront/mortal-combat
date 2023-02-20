@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "Shan Tsung",
+    "icon": "https://wiki.supercombo.gg/images/8/85/UMK3_Shang_Tsung_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/3/3a/Umk3_shangtsung_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/f/fc/Umk3_Shang_Tsung_pose.png"
+  },
+  {
+    "id": "2",
+    "name": "Sindel",
+    "icon": "https://wiki.supercombo.gg/images/d/dc/UMK3_Sindel_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/8/82/Umk3_sindel_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/2/2b/Umk3_Sindel_pose.png"
+  },
+  {
+    "id": "3",
+    "name": "Jax",
+    "icon": "https://wiki.supercombo.gg/images/c/c5/UMK3_Jax_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/f/fb/Umk3_jax_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/9/90/Umk3_Jax_pose.png"
+  },
+  {
+    "id": "4",
+    "name": "Kano",
+    "icon": "https://wiki.supercombo.gg/images/9/9d/UMK3_Kano_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/c/c1/Umk3_kano_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/a/a9/Umk3_Kano_pose.png"
+  },
+  {
+    "id": "5",
+    "name": "Liu Kang",
+    "icon": "https://wiki.supercombo.gg/images/c/ca/UMK3_Liu_kang_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/6/68/Umk3_lukang_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/f/fd/Umk3_Liu_Kang_pose.png"
+  },
+  {
+    "id": "6",
+    "name": "Sonya",
+    "icon": "https://wiki.supercombo.gg/images/f/f9/UMK3_Sonya_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/5/5f/Umk3_sonya_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/a/ac/Umk3_Sonya_pose.png"
+  },
+  {
+    "id": "7",
+    "name": "Stryker",
+    "icon": "https://wiki.supercombo.gg/images/6/6b/UMK3_Stryker_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/c/ce/Umk3_stryker_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/5/52/Umk3_Stryker_pose.png"
+  },
+  {
+    "id": "8",
+    "name": "Smoke",
+    "icon": "https://wiki.supercombo.gg/images/1/18/UMK3_Smoke_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/0/0a/Umk3_robosmoke_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/6/6b/Umk3_Robo_Smoke_pose.png"
+  },
+  {
+    "id": "9",
+    "name": "Unmasked Sub-Zero",
+    "icon": "https://wiki.supercombo.gg/images/3/31/UMK3_Unmasked_Sub-Zero_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/4/45/Umk3_usub-zero_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/7/75/Umk3_Unmasked_Sub-Zero_pose.png"
+  },
+  {
+    "id": "10",
+    "name": "Cyrax",
+    "icon": "https://wiki.supercombo.gg/images/8/86/UMK3_Cyrax_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/3/3b/Umk3_cyrax_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/7/70/Umk3_Cyrax_pose.png"
+  },
+  {
+    "id": "11",
+    "name": "Sektor",
+    "icon": "https://wiki.supercombo.gg/images/0/04/UMK3_Sektor_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/6/61/Umk3_sektor_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/5/5c/Umk3_Sektor_pose.png"
+  },
+  {
+    "id": "12",
+    "name": "Night Wolf",
+    "icon": "https://wiki.supercombo.gg/images/f/f7/UMK3_Nightwolf_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/5/55/Umk3_nightwolf_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/b/b5/Umk3_Nightwolf_pose.png"
+  },
+  {
+    "id": "13",
+    "name": "Sheeva",
+    "icon": "https://wiki.supercombo.gg/images/4/4b/UMK3_Sheeva_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/8/8a/Umk3_sheeva_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/4/47/Umk3_Sheeva_pose.png"
+  },
+  {
+    "id": "14",
+    "name": "Kung Lao",
+    "icon": "https://wiki.supercombo.gg/images/6/6c/UMK3_Kung_Lao_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/3/30/Umk3_kung_lao_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/c/c3/Umk3_Kung_Lao_pose.png"
+  },
+  {
+    "id": "15",
+    "name": "Kabal",
+    "icon": "https://wiki.supercombo.gg/images/6/66/UMK3_Kabal_Icon.png",
+    "stanceImg": "https://wiki.supercombo.gg/images/f/f4/Umk3_kabal_stance.gif",
+    "poseImg": "https://wiki.supercombo.gg/images/e/e0/Umk3_Kabal_pose.png"
+  }
+]

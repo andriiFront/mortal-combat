@@ -1,0 +1,43 @@
+.card {
+  width: 150px;
+  height: 180px;
+}
+
+.activeOne {
+  position: relative;
+  outline: 3px solid lightgreen;
+}
+
+.activeOne::before {
+  z-index: 1;
+  position: absolute;
+  content: '1';
+  left: 40px;
+  color: lightgreen;
+  font-size: 120px;
+  font-weight: bold;
+}
+.activeTwo {
+  position: relative;
+  outline: 3px solid red;
+}
+
+.activeTwo::before {
+  z-index: 1;
+  position: absolute;
+  content: '2';
+  left: 40px;
+  color: red;
+  font-size: 120px;
+  font-weight: bold;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.selected {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
