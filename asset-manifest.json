@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/mortal-combat/static/css/main.b7e46c8b.css",
-    "main.js": "/mortal-combat/static/js/main.3443963f.js",
+    "main.css": "/mortal-combat/static/css/main.dd43f2c3.css",
+    "main.js": "/mortal-combat/static/js/main.23696d8c.js",
+    "static/media/vs.png": "/mortal-combat/static/media/vs.da95dcff3cee44b396f0.png",
+    "static/media/dragon.png": "/mortal-combat/static/media/dragon.6d5137ad594f4f233f14.png",
     "index.html": "/mortal-combat/index.html",
-    "main.b7e46c8b.css.map": "/mortal-combat/static/css/main.b7e46c8b.css.map",
-    "main.3443963f.js.map": "/mortal-combat/static/js/main.3443963f.js.map"
+    "main.dd43f2c3.css.map": "/mortal-combat/static/css/main.dd43f2c3.css.map",
+    "main.23696d8c.js.map": "/mortal-combat/static/js/main.23696d8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7e46c8b.css",
-    "static/js/main.3443963f.js"
+    "static/css/main.dd43f2c3.css",
+    "static/js/main.23696d8c.js"
   ]
 }
