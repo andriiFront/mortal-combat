@@ -1,28 +1,30 @@
-import { CardsPlayers } from "./components/CardsPlayers/CardsPlayers";
-import { useSelector } from "react-redux";
-import { useState } from "react";
+import { FirstPage } from "./components/FirstPage/FirstPage";
+import { SecondPage } from "./components/SecondPage/SecondPage";
+import { useSelector, useDispatch } from "react-redux";
+import { useEffect } from "react";
+import { changePages } from "./store/actions";
 
 function App() {
-  const [visiblePageOne, setVisiblePageOne] = useState(true)
-  const [visiblePageTwo, setVisiblePageTwo] = useState(false)
+  const dispatch = useDispatch()
+  const { visibleFirstPage, visibleSecondPage } = useSelector(state => state.appReducer)
   const selectedPlayerOne = useSelector(
     state => state.activePlayersReducer.firstPlayer.selected
   )
   const selectedPlayerTwo = useSelector(
     state => state.activePlayersReducer.secondPlayer.selected
   )
+
+  useEffect(() => {
+    if (selectedPlayerOne && selectedPlayerTwo) {
+      dispatch(changePages())
+    }
+  }, [selectedPlayerOne, selectedPlayerTwo])
   
-  if(selectedPlayerOne && selectedPlayerTwo) {
-    setTimeout(() => {
-      setVisiblePageOne(false)
-    }, 2000)
-  }
 
   return (
     <div className="App">
-      Mortal Combat
-
-      {visiblePageOne && <CardsPlayers  />}
+      {visibleFirstPage && <FirstPage />}
+      {visibleSecondPage && <SecondPage />}
     </div>
   );
 }

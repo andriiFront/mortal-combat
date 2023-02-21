@@ -15,12 +15,12 @@ code {
 * {
   box-sizing: border-box;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
 .App {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   background-image: url(//e1.pxfuel.com/desktop-wallpaper/330/119/desktop-wallpaper-textures-dragon-of-the-strip-black-dark-backgrounds-mortal-kombat-mortal-kombat-dragon-logo.jpg);
   object-fit: cover;
   background-size: cover;

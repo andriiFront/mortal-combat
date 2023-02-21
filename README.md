@@ -5,13 +5,17 @@ TAP **[PREVIEW LINK](https://andriifront.github.io/mortal-combat/)** TO SEE DEMO
 
 This application implements the first two screens of the famous game Mortal Kombat 3. Here you can choose characters for the first and second players.
 
-For the first player:
-- select - buttons "up", "down", "right", "left"
-- confirm - "enter" button
+First screen:
+  For the first player:
+  - select - buttons "up", "down", "right", "left"
+  - confirm - "enter" button
 
-For the second player:
-- select - buttons "s", "x", "c", "z"
-- confirm - "v" button
+  For the second player:
+  - select - buttons "s", "x", "c", "z"
+  - confirm - "v" button
+
+Second screen:
+  To set the secret combination on the second screen, you need to use the keys "q", "w", "e", "r", "t", "y"
 
 ## Technologies
 

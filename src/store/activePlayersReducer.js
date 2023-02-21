@@ -6,11 +6,23 @@ import {
 const initialState = {
   firstPlayer: {
     selected: false,
-    player: {}
+    player: {
+      "id": "11",
+      "name": "Sektor",
+      "icon": "https://wiki.supercombo.gg/images/0/04/UMK3_Sektor_Icon.png",
+      "stanceImg": "https://wiki.supercombo.gg/images/6/61/Umk3_sektor_stance.gif",
+      "poseImg": "https://wiki.supercombo.gg/images/5/5c/Umk3_Sektor_pose.png"
+    }
   },
   secondPlayer: {
     selected: false,
-    player: {}
+    player: {
+      "id": "11",
+      "name": "Sektor",
+      "icon": "https://wiki.supercombo.gg/images/0/04/UMK3_Sektor_Icon.png",
+      "stanceImg": "https://wiki.supercombo.gg/images/6/61/Umk3_sektor_stance.gif",
+      "poseImg": "https://wiki.supercombo.gg/images/5/5c/Umk3_Sektor_pose.png"
+    }
   }
 }
 
